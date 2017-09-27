@@ -3,11 +3,8 @@
 #### Build Status
 | Branch | Build Status |
 | ---    | ---          |
-| master   | [![Build Status](https://travis-ci.com/tprasadtp/pdfx-template.svg?branch=master)](https://travis-ci.com/tprasadtp/pdfx-template)|
+| master   | [![Build Status](https://travis-ci.org/tprasadtp/pdfx-template.svg?branch=master)](https://travis-ci.com/tprasadtp/pdfx-template)|
 
-# License
-[![license](https://img.shields.io/github/license/tprasadtp/pdfx-template.svg)](https://github.com/tprasadtp/pdfx-template)
-* This repo is licensed under MIT license.
 
 ## Usage
 * Clone this repo
@@ -17,4 +14,8 @@
 
 ## Dependencies
 * `latexmk, pdflatex, xelatex`
-* Documentation on pdfx package can be found [here.]( ftp://ftp.fu-berlin.de/tex/CTAN/macros/latex/contrib/pdfx/pdfx.pdf)
+* Documentation on pdfx package can be found [here]( ftp://ftp.fu-berlin.de/tex/CTAN/macros/latex/contrib/pdfx/pdfx.pdf).
+
+# License
+[![license](https://img.shields.io/github/license/tprasadtp/pdfx-template.svg)](https://github.com/tprasadtp/pdfx-template)
+* This repo is licensed under MIT license.
