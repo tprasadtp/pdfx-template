@@ -1,0 +1,24 @@
+addons:
+  apt:
+    packages:
+    - texlive
+    - texlive-latex-base
+    - texlive-generic-extra
+    - texlive-generic-recommended
+    - texlive-xetex
+    - texlive-font-utils
+    - texlive-pstricks
+    - texlive-pictures
+    - texlive-fonts-recommended
+    - texlive-fonts-extra
+    - texlive-latex-extra
+    - texlive-lang-english
+    - latexmk
+    - texlive-pstricks
+    - ghostscript
+    - lmodern
+    - curl
+sudo: false
+language: bash
+script:
+- make all
