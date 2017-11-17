@@ -19,4 +19,5 @@
 # License
 [![license](https://img.shields.io/github/license/tprasadtp/pdfx-template.svg)](https://github.com/tprasadtp/pdfx-template)
 * This repo is licensed under MIT license.
+
 [![Analytics](https://ga-beacon.prasadt.com/UA-101760811-3/github/pdfx-template?flat&useReferer)](https://prasadt.com/google-analytics-beacon)
